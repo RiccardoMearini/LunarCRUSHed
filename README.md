@@ -1,2 +1,10 @@
-# LunarCRUSHed
-Generate API keys for LunarCRUSH.
+# LunarCRUSHed - Python
+
+## Usage
+
+```py
+from lunarcrushed import getKey
+
+print(getKey())
+```
+
