@@ -1,6 +1,6 @@
 {
-  "name": "LunarCRUSHed",
-  "version": "1.0.0",
+  "name": "lunarcrushed",
+  "version": "1.0.1",
   "description": "Generate an API key for LunarCRUSH.",
   "main": "./src/lib.js",
   "type": "module",
