@@ -9,7 +9,7 @@ Generate API keys for LunarCRUSH.
 
 ## Python
 
-View on [PyPI](https://pypi.org/project/lunarcrushed/) or on the [`python`](./tree/python) branch.
+View on [PyPI](https://pypi.org/project/lunarcrushed/) or on the [`python`](https://github.com/nouun/LunarCRUSHed/tree/python) branch.
 
 ### Install
 
@@ -27,7 +27,7 @@ print(getKey())
 
 ## NodeJS
 
-View on [npm](https://www.npmjs.com/package/lunarcrushed) or on the [`node`](./tree/node) branch.
+View on [npm](https://www.npmjs.com/package/lunarcrushed) or on the [`node`](https://github.com/nouun/LunarCRUSHed/tree/node) branch.
 
 ### Install
 
